@@ -1,1 +1,1 @@
-# componentslab_comp3170
+Sarah Wang's Lab assigment 1: Components, Book Catalogue
